@@ -3,11 +3,11 @@ Time Series Analysis in the Presende of Noise and Missing Data. Focus on Water Q
 ## Background
 
 This directory contains classification models and data processing code for anomaly detection in water quality data set.
-For complete background, see our paper pdf in the directory [thesis](https://github.com/EFgit/master-thesis-project/tree/master/thesis).
+For complete background, see our paper pdf in the directory [thesis](https://github.com/FitoreMuharremi/master-thesis-project/tree/master/thesis).
 
 ## Code Directories
 
-[classifiers/](https://github.com/FitoreMuharremi/Time-Series-Analysis-Water-Quality-Anomaly-Detection/edit/master/README.md)
+[classifiers/](https://github.com/FitoreMuharremi/master-thesis-project/tree/master/classifiers)
 
 - Contains: 
   - jupyter notebooks:
@@ -16,20 +16,20 @@ For complete background, see our paper pdf in the directory [thesis](https://git
     - Hyperparameter optimisation using GridSearch CV
     
     
-[final_classifiers/](https://github.com/FitoreMuharremi/Time-Series-Analysis-Water-Quality-Anomaly-Detection/edit/master/README.md)
+[final_classifiers/](https://github.com/FitoreMuharremi/master-thesis-project/tree/master/final_classifiers)
 - Contains: 
   - jupyter notebooks:
     - The selected classifiers after parameter tuning
    
 
-[preprocessing/](https://github.com/FitoreMuharremi/Time-Series-Analysis-Water-Quality-Anomaly-Detection)
+[preprocessing/](https://github.com/FitoreMuharremi/master-thesis-project/tree/master/preprocessing)
   - Contains:
     - jupyter notebooks:
       - Missing values imputation
       - Stationarity tests
       - Smothing data- moving average filter
       - Low-pass filters
-       - Plot different diagrams shown on the paper
+      - Plot different diagrams shown on the paper
       
  
 ## Walkthrough
