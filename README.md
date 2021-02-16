@@ -1,4 +1,4 @@
-Time Series Analysis in the Presende of Noise and Missing Data. Focus on Water Quality System
+Time Series Analysis in the Presence of Noise and Missing Data. Focus on Water Quality System
 
 ## Background
 
